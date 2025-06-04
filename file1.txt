@@ -3,4 +3,5 @@ hello wrold 2
 hello wrold 3
 hello wrold 4
 hello wrold 5
-hello wrold 6
+components are the base module of AEM
+osgi framework
